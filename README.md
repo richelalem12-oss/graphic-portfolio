@@ -3,13 +3,9 @@
 Welcome to my **Graphic Design Portfolio**!  
 This repository showcases my creative work, combining **elegant aesthetics** with **modern, professional design principles**.  
 
----
+
 
  🦋 Logo Concept
-
-<div align="center">
-  <img src="C:\Users\Dell\Desktop\ChatGPT Image Oct 26, 2025, 12_14_54 PM.png" alt="My Logo" width="150"/>
-</div>
 
 My portfolio logo combines two meaningful elements:
 
